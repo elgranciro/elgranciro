@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    “role” : “FullStack Dev | soyHenry”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/diazsenriquea/", 
+      "Linkedin" : "https://www.linkedin.com/in/enridiaz/", 
       "email"    : "enriquecatorce@gmail.com",     }
  }
 ```
