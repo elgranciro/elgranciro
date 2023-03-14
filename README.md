@@ -24,13 +24,20 @@ Here are some ideas to get you started:
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
 ```shell
- { “name” : “Enrique Alejandro”,
-   “role” : “FullStack Dev | soyHenry”,
-   “data” : 
-     { 
-      "Linkedin" : "https://www.linkedin.com/in/enridiaz/", 
-      "email"    : "enriquecatorce@gmail.com",     }
- }
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: ["JavaScript", "HTML5", "CSS3"]
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Styled Components"]
+      },
+      backEnd: {
+         js: ["Node", "Express", "Sequelize"]
+      },
+      databases: ["MySQL", "PostgreSQL"],
+   }
+};
 ```
   
 <h4>Programming Languages</h4>
